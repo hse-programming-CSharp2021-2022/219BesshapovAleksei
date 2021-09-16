@@ -1,0 +1,14 @@
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\HW_1\ASCIIDecoder\bin\Debug\netcoreapp3.1\ASCIIDecoder.exe
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\HW_1\ASCIIDecoder\bin\Debug\netcoreapp3.1\ASCIIDecoder.deps.json
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\HW_1\ASCIIDecoder\bin\Debug\netcoreapp3.1\ASCIIDecoder.runtimeconfig.json
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\HW_1\ASCIIDecoder\bin\Debug\netcoreapp3.1\ASCIIDecoder.runtimeconfig.dev.json
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\HW_1\ASCIIDecoder\bin\Debug\netcoreapp3.1\ASCIIDecoder.dll
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\HW_1\ASCIIDecoder\bin\Debug\netcoreapp3.1\ASCIIDecoder.pdb
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\HW_1\ASCIIDecoder\obj\Debug\netcoreapp3.1\ASCIIDecoder.csproj.AssemblyReference.cache
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\HW_1\ASCIIDecoder\obj\Debug\netcoreapp3.1\ASCIIDecoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\HW_1\ASCIIDecoder\obj\Debug\netcoreapp3.1\ASCIIDecoder.AssemblyInfoInputs.cache
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\HW_1\ASCIIDecoder\obj\Debug\netcoreapp3.1\ASCIIDecoder.AssemblyInfo.cs
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\HW_1\ASCIIDecoder\obj\Debug\netcoreapp3.1\ASCIIDecoder.csproj.CoreCompileInputs.cache
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\HW_1\ASCIIDecoder\obj\Debug\netcoreapp3.1\ASCIIDecoder.dll
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\HW_1\ASCIIDecoder\obj\Debug\netcoreapp3.1\ASCIIDecoder.pdb
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\HW_1\ASCIIDecoder\obj\Debug\netcoreapp3.1\ASCIIDecoder.genruntimeconfig.cache

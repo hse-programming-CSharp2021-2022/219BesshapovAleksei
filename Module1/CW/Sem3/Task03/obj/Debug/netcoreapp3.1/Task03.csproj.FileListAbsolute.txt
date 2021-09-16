@@ -1,0 +1,5 @@
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem3\Task03\obj\Debug\netcoreapp3.1\Task03.csproj.AssemblyReference.cache
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem3\Task03\obj\Debug\netcoreapp3.1\Task03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem3\Task03\obj\Debug\netcoreapp3.1\Task03.AssemblyInfoInputs.cache
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem3\Task03\obj\Debug\netcoreapp3.1\Task03.AssemblyInfo.cs
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem3\Task03\obj\Debug\netcoreapp3.1\Task03.csproj.CoreCompileInputs.cache

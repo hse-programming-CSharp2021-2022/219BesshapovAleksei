@@ -1,0 +1,14 @@
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem2\Task01\bin\Debug\netcoreapp3.1\Task01.exe
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem2\Task01\bin\Debug\netcoreapp3.1\Task01.deps.json
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem2\Task01\bin\Debug\netcoreapp3.1\Task01.runtimeconfig.json
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem2\Task01\bin\Debug\netcoreapp3.1\Task01.runtimeconfig.dev.json
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem2\Task01\bin\Debug\netcoreapp3.1\Task01.dll
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem2\Task01\bin\Debug\netcoreapp3.1\Task01.pdb
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem2\Task01\obj\Debug\netcoreapp3.1\Task01.csproj.AssemblyReference.cache
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem2\Task01\obj\Debug\netcoreapp3.1\Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem2\Task01\obj\Debug\netcoreapp3.1\Task01.AssemblyInfoInputs.cache
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem2\Task01\obj\Debug\netcoreapp3.1\Task01.AssemblyInfo.cs
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem2\Task01\obj\Debug\netcoreapp3.1\Task01.csproj.CoreCompileInputs.cache
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem2\Task01\obj\Debug\netcoreapp3.1\Task01.dll
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem2\Task01\obj\Debug\netcoreapp3.1\Task01.pdb
+C:\Users\ali_b\OneDrive\Рабочий стол\HW PI\Sem2\Task01\obj\Debug\netcoreapp3.1\Task01.genruntimeconfig.cache
