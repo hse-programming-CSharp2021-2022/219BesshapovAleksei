@@ -1,0 +1,15 @@
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem7\FromChat01\bin\Debug\net5.0\FromChat01.exe
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem7\FromChat01\bin\Debug\net5.0\FromChat01.deps.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem7\FromChat01\bin\Debug\net5.0\FromChat01.runtimeconfig.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem7\FromChat01\bin\Debug\net5.0\FromChat01.runtimeconfig.dev.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem7\FromChat01\bin\Debug\net5.0\FromChat01.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem7\FromChat01\bin\Debug\net5.0\ref\FromChat01.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem7\FromChat01\bin\Debug\net5.0\FromChat01.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem7\FromChat01\obj\Debug\net5.0\FromChat01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem7\FromChat01\obj\Debug\net5.0\FromChat01.AssemblyInfoInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem7\FromChat01\obj\Debug\net5.0\FromChat01.AssemblyInfo.cs
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem7\FromChat01\obj\Debug\net5.0\FromChat01.csproj.CoreCompileInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem7\FromChat01\obj\Debug\net5.0\FromChat01.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem7\FromChat01\obj\Debug\net5.0\ref\FromChat01.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem7\FromChat01\obj\Debug\net5.0\FromChat01.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem7\FromChat01\obj\Debug\net5.0\FromChat01.genruntimeconfig.cache
