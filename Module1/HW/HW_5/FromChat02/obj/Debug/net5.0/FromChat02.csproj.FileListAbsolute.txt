@@ -1,0 +1,16 @@
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_5\FromChat02\bin\Debug\net5.0\FromChat02.exe
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_5\FromChat02\bin\Debug\net5.0\FromChat02.deps.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_5\FromChat02\bin\Debug\net5.0\FromChat02.runtimeconfig.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_5\FromChat02\bin\Debug\net5.0\FromChat02.runtimeconfig.dev.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_5\FromChat02\bin\Debug\net5.0\FromChat02.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_5\FromChat02\bin\Debug\net5.0\ref\FromChat02.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_5\FromChat02\bin\Debug\net5.0\FromChat02.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_5\FromChat02\obj\Debug\net5.0\FromChat02.csproj.AssemblyReference.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_5\FromChat02\obj\Debug\net5.0\FromChat02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_5\FromChat02\obj\Debug\net5.0\FromChat02.AssemblyInfoInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_5\FromChat02\obj\Debug\net5.0\FromChat02.AssemblyInfo.cs
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_5\FromChat02\obj\Debug\net5.0\FromChat02.csproj.CoreCompileInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_5\FromChat02\obj\Debug\net5.0\FromChat02.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_5\FromChat02\obj\Debug\net5.0\ref\FromChat02.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_5\FromChat02\obj\Debug\net5.0\FromChat02.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_5\FromChat02\obj\Debug\net5.0\FromChat02.genruntimeconfig.cache
