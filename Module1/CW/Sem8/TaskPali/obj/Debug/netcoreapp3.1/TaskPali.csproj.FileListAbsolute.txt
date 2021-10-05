@@ -1,0 +1,14 @@
+C:\Users\Администратор\source\repos\Sem8\TaskPali\bin\Debug\netcoreapp3.1\TaskPali.exe
+C:\Users\Администратор\source\repos\Sem8\TaskPali\bin\Debug\netcoreapp3.1\TaskPali.deps.json
+C:\Users\Администратор\source\repos\Sem8\TaskPali\bin\Debug\netcoreapp3.1\TaskPali.runtimeconfig.json
+C:\Users\Администратор\source\repos\Sem8\TaskPali\bin\Debug\netcoreapp3.1\TaskPali.runtimeconfig.dev.json
+C:\Users\Администратор\source\repos\Sem8\TaskPali\bin\Debug\netcoreapp3.1\TaskPali.dll
+C:\Users\Администратор\source\repos\Sem8\TaskPali\bin\Debug\netcoreapp3.1\TaskPali.pdb
+C:\Users\Администратор\source\repos\Sem8\TaskPali\obj\Debug\netcoreapp3.1\TaskPali.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Sem8\TaskPali\obj\Debug\netcoreapp3.1\TaskPali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\Sem8\TaskPali\obj\Debug\netcoreapp3.1\TaskPali.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\Sem8\TaskPali\obj\Debug\netcoreapp3.1\TaskPali.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\Sem8\TaskPali\obj\Debug\netcoreapp3.1\TaskPali.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Sem8\TaskPali\obj\Debug\netcoreapp3.1\TaskPali.dll
+C:\Users\Администратор\source\repos\Sem8\TaskPali\obj\Debug\netcoreapp3.1\TaskPali.pdb
+C:\Users\Администратор\source\repos\Sem8\TaskPali\obj\Debug\netcoreapp3.1\TaskPali.genruntimeconfig.cache

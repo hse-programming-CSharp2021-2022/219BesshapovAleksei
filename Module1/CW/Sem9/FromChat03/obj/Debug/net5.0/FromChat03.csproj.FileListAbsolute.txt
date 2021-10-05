@@ -1,0 +1,16 @@
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem9\FromChat03\bin\Debug\net5.0\FromChat03.exe
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem9\FromChat03\bin\Debug\net5.0\FromChat03.deps.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem9\FromChat03\bin\Debug\net5.0\FromChat03.runtimeconfig.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem9\FromChat03\bin\Debug\net5.0\FromChat03.runtimeconfig.dev.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem9\FromChat03\bin\Debug\net5.0\FromChat03.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem9\FromChat03\bin\Debug\net5.0\ref\FromChat03.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem9\FromChat03\bin\Debug\net5.0\FromChat03.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem9\FromChat03\obj\Debug\net5.0\FromChat03.csproj.AssemblyReference.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem9\FromChat03\obj\Debug\net5.0\FromChat03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem9\FromChat03\obj\Debug\net5.0\FromChat03.AssemblyInfoInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem9\FromChat03\obj\Debug\net5.0\FromChat03.AssemblyInfo.cs
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem9\FromChat03\obj\Debug\net5.0\FromChat03.csproj.CoreCompileInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem9\FromChat03\obj\Debug\net5.0\FromChat03.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem9\FromChat03\obj\Debug\net5.0\ref\FromChat03.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem9\FromChat03\obj\Debug\net5.0\FromChat03.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\CW\Sem9\FromChat03\obj\Debug\net5.0\FromChat03.genruntimeconfig.cache

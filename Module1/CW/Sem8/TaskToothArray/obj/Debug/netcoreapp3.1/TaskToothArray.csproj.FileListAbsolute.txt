@@ -1,0 +1,13 @@
+C:\Users\Администратор\source\repos\Sem8\TaskToothArray\bin\Debug\netcoreapp3.1\TaskToothArray.exe
+C:\Users\Администратор\source\repos\Sem8\TaskToothArray\bin\Debug\netcoreapp3.1\TaskToothArray.deps.json
+C:\Users\Администратор\source\repos\Sem8\TaskToothArray\bin\Debug\netcoreapp3.1\TaskToothArray.runtimeconfig.json
+C:\Users\Администратор\source\repos\Sem8\TaskToothArray\bin\Debug\netcoreapp3.1\TaskToothArray.runtimeconfig.dev.json
+C:\Users\Администратор\source\repos\Sem8\TaskToothArray\bin\Debug\netcoreapp3.1\TaskToothArray.dll
+C:\Users\Администратор\source\repos\Sem8\TaskToothArray\bin\Debug\netcoreapp3.1\TaskToothArray.pdb
+C:\Users\Администратор\source\repos\Sem8\TaskToothArray\obj\Debug\netcoreapp3.1\TaskToothArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\Sem8\TaskToothArray\obj\Debug\netcoreapp3.1\TaskToothArray.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\Sem8\TaskToothArray\obj\Debug\netcoreapp3.1\TaskToothArray.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\Sem8\TaskToothArray\obj\Debug\netcoreapp3.1\TaskToothArray.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Sem8\TaskToothArray\obj\Debug\netcoreapp3.1\TaskToothArray.dll
+C:\Users\Администратор\source\repos\Sem8\TaskToothArray\obj\Debug\netcoreapp3.1\TaskToothArray.pdb
+C:\Users\Администратор\source\repos\Sem8\TaskToothArray\obj\Debug\netcoreapp3.1\TaskToothArray.genruntimeconfig.cache

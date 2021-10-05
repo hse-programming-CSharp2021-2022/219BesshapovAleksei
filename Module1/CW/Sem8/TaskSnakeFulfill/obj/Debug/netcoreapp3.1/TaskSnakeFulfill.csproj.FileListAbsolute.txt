@@ -1,0 +1,13 @@
+C:\Users\Администратор\source\repos\Sem8\TaskSnakeFulfill\obj\Debug\netcoreapp3.1\TaskSnakeFulfill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\Sem8\TaskSnakeFulfill\obj\Debug\netcoreapp3.1\TaskSnakeFulfill.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\Sem8\TaskSnakeFulfill\obj\Debug\netcoreapp3.1\TaskSnakeFulfill.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\Sem8\TaskSnakeFulfill\obj\Debug\netcoreapp3.1\TaskSnakeFulfill.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Sem8\TaskSnakeFulfill\bin\Debug\netcoreapp3.1\TaskSnakeFulfill.exe
+C:\Users\Администратор\source\repos\Sem8\TaskSnakeFulfill\bin\Debug\netcoreapp3.1\TaskSnakeFulfill.deps.json
+C:\Users\Администратор\source\repos\Sem8\TaskSnakeFulfill\bin\Debug\netcoreapp3.1\TaskSnakeFulfill.runtimeconfig.json
+C:\Users\Администратор\source\repos\Sem8\TaskSnakeFulfill\bin\Debug\netcoreapp3.1\TaskSnakeFulfill.runtimeconfig.dev.json
+C:\Users\Администратор\source\repos\Sem8\TaskSnakeFulfill\bin\Debug\netcoreapp3.1\TaskSnakeFulfill.dll
+C:\Users\Администратор\source\repos\Sem8\TaskSnakeFulfill\bin\Debug\netcoreapp3.1\TaskSnakeFulfill.pdb
+C:\Users\Администратор\source\repos\Sem8\TaskSnakeFulfill\obj\Debug\netcoreapp3.1\TaskSnakeFulfill.dll
+C:\Users\Администратор\source\repos\Sem8\TaskSnakeFulfill\obj\Debug\netcoreapp3.1\TaskSnakeFulfill.pdb
+C:\Users\Администратор\source\repos\Sem8\TaskSnakeFulfill\obj\Debug\netcoreapp3.1\TaskSnakeFulfill.genruntimeconfig.cache

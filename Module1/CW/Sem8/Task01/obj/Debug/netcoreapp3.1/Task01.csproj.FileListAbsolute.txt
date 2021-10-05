@@ -1,0 +1,14 @@
+C:\Users\Администратор\source\repos\Sem8\Task01\bin\Debug\netcoreapp3.1\Task01.exe
+C:\Users\Администратор\source\repos\Sem8\Task01\bin\Debug\netcoreapp3.1\Task01.deps.json
+C:\Users\Администратор\source\repos\Sem8\Task01\bin\Debug\netcoreapp3.1\Task01.runtimeconfig.json
+C:\Users\Администратор\source\repos\Sem8\Task01\bin\Debug\netcoreapp3.1\Task01.runtimeconfig.dev.json
+C:\Users\Администратор\source\repos\Sem8\Task01\bin\Debug\netcoreapp3.1\Task01.dll
+C:\Users\Администратор\source\repos\Sem8\Task01\bin\Debug\netcoreapp3.1\Task01.pdb
+C:\Users\Администратор\source\repos\Sem8\Task01\obj\Debug\netcoreapp3.1\Task01.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Sem8\Task01\obj\Debug\netcoreapp3.1\Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\Sem8\Task01\obj\Debug\netcoreapp3.1\Task01.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\Sem8\Task01\obj\Debug\netcoreapp3.1\Task01.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\Sem8\Task01\obj\Debug\netcoreapp3.1\Task01.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Sem8\Task01\obj\Debug\netcoreapp3.1\Task01.dll
+C:\Users\Администратор\source\repos\Sem8\Task01\obj\Debug\netcoreapp3.1\Task01.pdb
+C:\Users\Администратор\source\repos\Sem8\Task01\obj\Debug\netcoreapp3.1\Task01.genruntimeconfig.cache
