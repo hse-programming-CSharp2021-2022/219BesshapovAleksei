@@ -1,0 +1,16 @@
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_Spiral\HW_Spiral\bin\Debug\net5.0\HW_Spiral.exe
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_Spiral\HW_Spiral\bin\Debug\net5.0\HW_Spiral.deps.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_Spiral\HW_Spiral\bin\Debug\net5.0\HW_Spiral.runtimeconfig.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_Spiral\HW_Spiral\bin\Debug\net5.0\HW_Spiral.runtimeconfig.dev.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_Spiral\HW_Spiral\bin\Debug\net5.0\HW_Spiral.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_Spiral\HW_Spiral\bin\Debug\net5.0\ref\HW_Spiral.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_Spiral\HW_Spiral\bin\Debug\net5.0\HW_Spiral.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_Spiral\HW_Spiral\obj\Debug\net5.0\HW_Spiral.csproj.AssemblyReference.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_Spiral\HW_Spiral\obj\Debug\net5.0\HW_Spiral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_Spiral\HW_Spiral\obj\Debug\net5.0\HW_Spiral.AssemblyInfoInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_Spiral\HW_Spiral\obj\Debug\net5.0\HW_Spiral.AssemblyInfo.cs
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_Spiral\HW_Spiral\obj\Debug\net5.0\HW_Spiral.csproj.CoreCompileInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_Spiral\HW_Spiral\obj\Debug\net5.0\HW_Spiral.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_Spiral\HW_Spiral\obj\Debug\net5.0\ref\HW_Spiral.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_Spiral\HW_Spiral\obj\Debug\net5.0\HW_Spiral.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module1\HW\HW_Spiral\HW_Spiral\obj\Debug\net5.0\HW_Spiral.genruntimeconfig.cache
