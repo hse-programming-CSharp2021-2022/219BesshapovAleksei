@@ -1,0 +1,16 @@
+C:\Users\Администратор\Desktop\Sem12\TaskRegular2\bin\Debug\net5.0\TaskRegular2.exe
+C:\Users\Администратор\Desktop\Sem12\TaskRegular2\bin\Debug\net5.0\TaskRegular2.deps.json
+C:\Users\Администратор\Desktop\Sem12\TaskRegular2\bin\Debug\net5.0\TaskRegular2.runtimeconfig.json
+C:\Users\Администратор\Desktop\Sem12\TaskRegular2\bin\Debug\net5.0\TaskRegular2.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\Sem12\TaskRegular2\bin\Debug\net5.0\TaskRegular2.dll
+C:\Users\Администратор\Desktop\Sem12\TaskRegular2\bin\Debug\net5.0\ref\TaskRegular2.dll
+C:\Users\Администратор\Desktop\Sem12\TaskRegular2\bin\Debug\net5.0\TaskRegular2.pdb
+C:\Users\Администратор\Desktop\Sem12\TaskRegular2\obj\Debug\net5.0\TaskRegular2.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Sem12\TaskRegular2\obj\Debug\net5.0\TaskRegular2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Sem12\TaskRegular2\obj\Debug\net5.0\TaskRegular2.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Sem12\TaskRegular2\obj\Debug\net5.0\TaskRegular2.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Sem12\TaskRegular2\obj\Debug\net5.0\TaskRegular2.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Sem12\TaskRegular2\obj\Debug\net5.0\TaskRegular2.dll
+C:\Users\Администратор\Desktop\Sem12\TaskRegular2\obj\Debug\net5.0\ref\TaskRegular2.dll
+C:\Users\Администратор\Desktop\Sem12\TaskRegular2\obj\Debug\net5.0\TaskRegular2.pdb
+C:\Users\Администратор\Desktop\Sem12\TaskRegular2\obj\Debug\net5.0\TaskRegular2.genruntimeconfig.cache

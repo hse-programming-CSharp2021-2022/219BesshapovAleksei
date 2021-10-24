@@ -1,0 +1,16 @@
+C:\Users\Администратор\Desktop\Sem12\TaskRequests\bin\Debug\net5.0\TaskRequests.exe
+C:\Users\Администратор\Desktop\Sem12\TaskRequests\bin\Debug\net5.0\TaskRequests.deps.json
+C:\Users\Администратор\Desktop\Sem12\TaskRequests\bin\Debug\net5.0\TaskRequests.runtimeconfig.json
+C:\Users\Администратор\Desktop\Sem12\TaskRequests\bin\Debug\net5.0\TaskRequests.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\Sem12\TaskRequests\bin\Debug\net5.0\TaskRequests.dll
+C:\Users\Администратор\Desktop\Sem12\TaskRequests\bin\Debug\net5.0\ref\TaskRequests.dll
+C:\Users\Администратор\Desktop\Sem12\TaskRequests\bin\Debug\net5.0\TaskRequests.pdb
+C:\Users\Администратор\Desktop\Sem12\TaskRequests\obj\Debug\net5.0\TaskRequests.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Sem12\TaskRequests\obj\Debug\net5.0\TaskRequests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Sem12\TaskRequests\obj\Debug\net5.0\TaskRequests.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Sem12\TaskRequests\obj\Debug\net5.0\TaskRequests.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Sem12\TaskRequests\obj\Debug\net5.0\TaskRequests.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Sem12\TaskRequests\obj\Debug\net5.0\TaskRequests.dll
+C:\Users\Администратор\Desktop\Sem12\TaskRequests\obj\Debug\net5.0\ref\TaskRequests.dll
+C:\Users\Администратор\Desktop\Sem12\TaskRequests\obj\Debug\net5.0\TaskRequests.pdb
+C:\Users\Администратор\Desktop\Sem12\TaskRequests\obj\Debug\net5.0\TaskRequests.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Администратор\Desktop\Sem12\TaskRegular3\bin\Debug\net5.0\TaskRegular3.exe
+C:\Users\Администратор\Desktop\Sem12\TaskRegular3\bin\Debug\net5.0\TaskRegular3.deps.json
+C:\Users\Администратор\Desktop\Sem12\TaskRegular3\bin\Debug\net5.0\TaskRegular3.runtimeconfig.json
+C:\Users\Администратор\Desktop\Sem12\TaskRegular3\bin\Debug\net5.0\TaskRegular3.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\Sem12\TaskRegular3\bin\Debug\net5.0\TaskRegular3.dll
+C:\Users\Администратор\Desktop\Sem12\TaskRegular3\bin\Debug\net5.0\ref\TaskRegular3.dll
+C:\Users\Администратор\Desktop\Sem12\TaskRegular3\bin\Debug\net5.0\TaskRegular3.pdb
+C:\Users\Администратор\Desktop\Sem12\TaskRegular3\obj\Debug\net5.0\TaskRegular3.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Sem12\TaskRegular3\obj\Debug\net5.0\TaskRegular3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Sem12\TaskRegular3\obj\Debug\net5.0\TaskRegular3.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Sem12\TaskRegular3\obj\Debug\net5.0\TaskRegular3.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Sem12\TaskRegular3\obj\Debug\net5.0\TaskRegular3.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Sem12\TaskRegular3\obj\Debug\net5.0\TaskRegular3.dll
+C:\Users\Администратор\Desktop\Sem12\TaskRegular3\obj\Debug\net5.0\ref\TaskRegular3.dll
+C:\Users\Администратор\Desktop\Sem12\TaskRegular3\obj\Debug\net5.0\TaskRegular3.pdb
+C:\Users\Администратор\Desktop\Sem12\TaskRegular3\obj\Debug\net5.0\TaskRegular3.genruntimeconfig.cache
