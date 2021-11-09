@@ -1,0 +1,16 @@
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem5\TaskAnimal\bin\Debug\net5.0\TaskAnimal.exe
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem5\TaskAnimal\bin\Debug\net5.0\TaskAnimal.deps.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem5\TaskAnimal\bin\Debug\net5.0\TaskAnimal.runtimeconfig.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem5\TaskAnimal\bin\Debug\net5.0\TaskAnimal.runtimeconfig.dev.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem5\TaskAnimal\bin\Debug\net5.0\TaskAnimal.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem5\TaskAnimal\bin\Debug\net5.0\ref\TaskAnimal.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem5\TaskAnimal\bin\Debug\net5.0\TaskAnimal.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem5\TaskAnimal\obj\Debug\net5.0\TaskAnimal.csproj.AssemblyReference.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem5\TaskAnimal\obj\Debug\net5.0\TaskAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem5\TaskAnimal\obj\Debug\net5.0\TaskAnimal.AssemblyInfoInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem5\TaskAnimal\obj\Debug\net5.0\TaskAnimal.AssemblyInfo.cs
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem5\TaskAnimal\obj\Debug\net5.0\TaskAnimal.csproj.CoreCompileInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem5\TaskAnimal\obj\Debug\net5.0\TaskAnimal.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem5\TaskAnimal\obj\Debug\net5.0\ref\TaskAnimal.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem5\TaskAnimal\obj\Debug\net5.0\TaskAnimal.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem5\TaskAnimal\obj\Debug\net5.0\TaskAnimal.genruntimeconfig.cache
