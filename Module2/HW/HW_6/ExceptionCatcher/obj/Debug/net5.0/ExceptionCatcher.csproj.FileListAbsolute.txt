@@ -1,0 +1,16 @@
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_6\ExceptionCatcher\bin\Debug\net5.0\ExceptionCatcher.exe
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_6\ExceptionCatcher\bin\Debug\net5.0\ExceptionCatcher.deps.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_6\ExceptionCatcher\bin\Debug\net5.0\ExceptionCatcher.runtimeconfig.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_6\ExceptionCatcher\bin\Debug\net5.0\ExceptionCatcher.runtimeconfig.dev.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_6\ExceptionCatcher\bin\Debug\net5.0\ExceptionCatcher.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_6\ExceptionCatcher\bin\Debug\net5.0\ref\ExceptionCatcher.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_6\ExceptionCatcher\bin\Debug\net5.0\ExceptionCatcher.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_6\ExceptionCatcher\obj\Debug\net5.0\ExceptionCatcher.csproj.AssemblyReference.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_6\ExceptionCatcher\obj\Debug\net5.0\ExceptionCatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_6\ExceptionCatcher\obj\Debug\net5.0\ExceptionCatcher.AssemblyInfoInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_6\ExceptionCatcher\obj\Debug\net5.0\ExceptionCatcher.AssemblyInfo.cs
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_6\ExceptionCatcher\obj\Debug\net5.0\ExceptionCatcher.csproj.CoreCompileInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_6\ExceptionCatcher\obj\Debug\net5.0\ExceptionCatcher.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_6\ExceptionCatcher\obj\Debug\net5.0\ref\ExceptionCatcher.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_6\ExceptionCatcher\obj\Debug\net5.0\ExceptionCatcher.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_6\ExceptionCatcher\obj\Debug\net5.0\ExceptionCatcher.genruntimeconfig.cache
