@@ -1,0 +1,16 @@
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_7\Var2\bin\Debug\net5.0\Var2.exe
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_7\Var2\bin\Debug\net5.0\Var2.deps.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_7\Var2\bin\Debug\net5.0\Var2.runtimeconfig.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_7\Var2\bin\Debug\net5.0\Var2.runtimeconfig.dev.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_7\Var2\bin\Debug\net5.0\Var2.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_7\Var2\bin\Debug\net5.0\ref\Var2.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_7\Var2\bin\Debug\net5.0\Var2.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_7\Var2\obj\Debug\net5.0\Var2.csproj.AssemblyReference.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_7\Var2\obj\Debug\net5.0\Var2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_7\Var2\obj\Debug\net5.0\Var2.AssemblyInfoInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_7\Var2\obj\Debug\net5.0\Var2.AssemblyInfo.cs
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_7\Var2\obj\Debug\net5.0\Var2.csproj.CoreCompileInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_7\Var2\obj\Debug\net5.0\Var2.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_7\Var2\obj\Debug\net5.0\ref\Var2.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_7\Var2\obj\Debug\net5.0\Var2.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\HW\HW_7\Var2\obj\Debug\net5.0\Var2.genruntimeconfig.cache
