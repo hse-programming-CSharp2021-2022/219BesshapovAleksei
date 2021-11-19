@@ -1,0 +1,16 @@
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem8\TaskSnow\bin\Debug\net5.0\TaskSnow.exe
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem8\TaskSnow\bin\Debug\net5.0\TaskSnow.deps.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem8\TaskSnow\bin\Debug\net5.0\TaskSnow.runtimeconfig.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem8\TaskSnow\bin\Debug\net5.0\TaskSnow.runtimeconfig.dev.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem8\TaskSnow\bin\Debug\net5.0\TaskSnow.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem8\TaskSnow\bin\Debug\net5.0\ref\TaskSnow.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem8\TaskSnow\bin\Debug\net5.0\TaskSnow.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem8\TaskSnow\obj\Debug\net5.0\TaskSnow.csproj.AssemblyReference.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem8\TaskSnow\obj\Debug\net5.0\TaskSnow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem8\TaskSnow\obj\Debug\net5.0\TaskSnow.AssemblyInfoInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem8\TaskSnow\obj\Debug\net5.0\TaskSnow.AssemblyInfo.cs
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem8\TaskSnow\obj\Debug\net5.0\TaskSnow.csproj.CoreCompileInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem8\TaskSnow\obj\Debug\net5.0\TaskSnow.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem8\TaskSnow\obj\Debug\net5.0\ref\TaskSnow.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem8\TaskSnow\obj\Debug\net5.0\TaskSnow.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem8\TaskSnow\obj\Debug\net5.0\TaskSnow.genruntimeconfig.cache
