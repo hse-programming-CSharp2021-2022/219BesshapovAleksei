@@ -1,0 +1,15 @@
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem11\Test\bin\Debug\Test.exe.config
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem11\Test\bin\Debug\Test.exe
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem11\Test\bin\Debug\Test.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem11\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem11\Test\obj\Debug\MainWindow.g.cs
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem11\Test\obj\Debug\App.g.cs
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem11\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem11\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem11\Test\obj\Debug\MainWindow.baml
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem11\Test\obj\Debug\Test.g.resources
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem11\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem11\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem11\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem11\Test\obj\Debug\Test.exe
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module2\CW\Sem11\Test\obj\Debug\Test.pdb
