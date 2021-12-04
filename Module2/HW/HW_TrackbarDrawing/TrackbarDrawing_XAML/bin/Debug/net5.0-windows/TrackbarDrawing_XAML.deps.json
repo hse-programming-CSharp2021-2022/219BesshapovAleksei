@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TrackbarDrawing_XAML/1.0.0": {
+        "runtime": {
+          "TrackbarDrawing_XAML.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrackbarDrawing_XAML/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
