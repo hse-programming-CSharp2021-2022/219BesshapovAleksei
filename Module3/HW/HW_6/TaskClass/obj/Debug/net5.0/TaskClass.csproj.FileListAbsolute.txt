@@ -1,0 +1,16 @@
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\HW\HW_6\TaskClass\bin\Debug\net5.0\TaskClass.exe
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\HW\HW_6\TaskClass\bin\Debug\net5.0\TaskClass.deps.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\HW\HW_6\TaskClass\bin\Debug\net5.0\TaskClass.runtimeconfig.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\HW\HW_6\TaskClass\bin\Debug\net5.0\TaskClass.runtimeconfig.dev.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\HW\HW_6\TaskClass\bin\Debug\net5.0\TaskClass.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\HW\HW_6\TaskClass\bin\Debug\net5.0\ref\TaskClass.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\HW\HW_6\TaskClass\bin\Debug\net5.0\TaskClass.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\HW\HW_6\TaskClass\obj\Debug\net5.0\TaskClass.csproj.AssemblyReference.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\HW\HW_6\TaskClass\obj\Debug\net5.0\TaskClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\HW\HW_6\TaskClass\obj\Debug\net5.0\TaskClass.AssemblyInfoInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\HW\HW_6\TaskClass\obj\Debug\net5.0\TaskClass.AssemblyInfo.cs
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\HW\HW_6\TaskClass\obj\Debug\net5.0\TaskClass.csproj.CoreCompileInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\HW\HW_6\TaskClass\obj\Debug\net5.0\TaskClass.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\HW\HW_6\TaskClass\obj\Debug\net5.0\ref\TaskClass.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\HW\HW_6\TaskClass\obj\Debug\net5.0\TaskClass.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\HW\HW_6\TaskClass\obj\Debug\net5.0\TaskClass.genruntimeconfig.cache
