@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task02", "Task02\Task02.csproj", "{4F28894A-69BC-4B26-B3A0-F167EC638264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskBinaryWriter", "TaskBinaryWriter\TaskBinaryWriter.csproj", "{9F0C7063-DB36-45B7-BE84-A04ED9CB0C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F28894A-69BC-4B26-B3A0-F167EC638264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F28894A-69BC-4B26-B3A0-F167EC638264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F28894A-69BC-4B26-B3A0-F167EC638264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F28894A-69BC-4B26-B3A0-F167EC638264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0C7063-DB36-45B7-BE84-A04ED9CB0C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0C7063-DB36-45B7-BE84-A04ED9CB0C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0C7063-DB36-45B7-BE84-A04ED9CB0C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0C7063-DB36-45B7-BE84-A04ED9CB0C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6E4406F-850F-4F6B-AEB8-4A1BFEBBA2FE}
+	EndGlobalSection
+EndGlobal
