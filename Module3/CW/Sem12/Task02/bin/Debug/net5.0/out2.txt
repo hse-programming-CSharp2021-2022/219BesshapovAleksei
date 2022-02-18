@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<ArrayOfUniversity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <University>
+    <Name>ВШЭ</Name>
+    <Workers>
+      <Department>
+        <Name>Учебный офис</Name>
+        <Humans>
+          <Human xsi:type="Professor">
+            <Name>СуперКачалова</Name>
+            <Grade>СуперБухгалтер</Grade>
+          </Human>
+        </Humans>
+      </Department>
+    </Workers>
+  </University>
+  <University>
+    <Name>МГУ</Name>
+    <Workers>
+      <Department>
+        <Name>Учебный офис</Name>
+        <Humans>
+          <Human xsi:type="Professor">
+            <Name>МиниКачалова</Name>
+            <Grade>МиниБухгалтер</Grade>
+          </Human>
+        </Humans>
+      </Department>
+      <Department>
+        <Name>Учебный офис</Name>
+        <Humans>
+          <Human xsi:type="Professor">
+            <Name>Ломоносов</Name>
+            <Grade>Профессор</Grade>
+          </Human>
+        </Humans>
+      </Department>
+    </Workers>
+  </University>
+</ArrayOfUniversity>
