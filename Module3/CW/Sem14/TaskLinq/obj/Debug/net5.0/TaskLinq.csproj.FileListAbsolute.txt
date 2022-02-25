@@ -1,0 +1,16 @@
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\CW\Sem14\TaskLinq\bin\Debug\net5.0\TaskLinq.exe
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\CW\Sem14\TaskLinq\bin\Debug\net5.0\TaskLinq.deps.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\CW\Sem14\TaskLinq\bin\Debug\net5.0\TaskLinq.runtimeconfig.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\CW\Sem14\TaskLinq\bin\Debug\net5.0\TaskLinq.runtimeconfig.dev.json
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\CW\Sem14\TaskLinq\bin\Debug\net5.0\TaskLinq.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\CW\Sem14\TaskLinq\bin\Debug\net5.0\ref\TaskLinq.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\CW\Sem14\TaskLinq\bin\Debug\net5.0\TaskLinq.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\CW\Sem14\TaskLinq\obj\Debug\net5.0\TaskLinq.csproj.AssemblyReference.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\CW\Sem14\TaskLinq\obj\Debug\net5.0\TaskLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\CW\Sem14\TaskLinq\obj\Debug\net5.0\TaskLinq.AssemblyInfoInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\CW\Sem14\TaskLinq\obj\Debug\net5.0\TaskLinq.AssemblyInfo.cs
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\CW\Sem14\TaskLinq\obj\Debug\net5.0\TaskLinq.csproj.CoreCompileInputs.cache
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\CW\Sem14\TaskLinq\obj\Debug\net5.0\TaskLinq.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\CW\Sem14\TaskLinq\obj\Debug\net5.0\ref\TaskLinq.dll
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\CW\Sem14\TaskLinq\obj\Debug\net5.0\TaskLinq.pdb
+C:\Users\ali_b\Desktop\219BesshapovAleksei\Module3\CW\Sem14\TaskLinq\obj\Debug\net5.0\TaskLinq.genruntimeconfig.cache
